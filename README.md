@@ -8,21 +8,21 @@ I am a Computer Science student at the University of Minnesota focused on engine
 
 <img src="https://img.shields.io/badge/AI_Related-7B2FBE?style=for-the-badge&logo=probot&logoColor=white" style="height: 35px;" />
 
--   **[Agentic-Workflow Plugin](https://github.com/gidde032/AgenticWorkflow)** - My custom plugin, made for engineers looking to create a consistent structure around their agents. Currently comprising 12 skills, it covers all steps of the typical development process, from turning a rough idea into an initial spec to parallel multi-subagent code reviews before shipping, backed by GitHub's native PR, Issues, and Actions infrastructure. Designed to promote understanding of agentic development and assist users in maximizing their agentic tooling, the plugin naturally produces documentation as you work, noting your typical usage, recording your preferred working style, and gathering references to help tailor the plugin's skills to your own purposes each session. Skills, evals, and refinements are regularly added; please feel free to open an Issue with any feedback or suggestions!
--   **[Flytie](https://pypi.org/project/flytie/)** - A Python-powered tool designed to help fly fishermen manage their fly patterns and tying materials. Read about my workflow and development process in my [Medium article series on Agentic Development](https://medium.com/@finn.gidden/building-flytie-setting-up-the-proper-structure-for-agentic-development-7ac1f58ea8ff).
+-   **[Agentic-Workflow Plugin](https://github.com/gidde032/AgenticWorkflow)** - My everyday plugin, made to create a consistent structure around agents. Currently comprising 13 skills, it covers all steps of the typical development process, from turning a rough idea into an initial spec to parallel multi-subagent code reviews before shipping, backed by GitHub's native PR, Issues, and Actions infrastructure. The plugin naturally produces documentation as you work, noting your typical usage, recording your preferred working style, and gathering references to help maximize the plugin's utility in your normal workflow.
 
 <img src="https://img.shields.io/badge/My_Tools-1E6FD9?style=for-the-badge&logo=dependabot&logoColor=white" style="height: 35px;" />
 
--   **[RiceSuite](https://github.com/gidde032/RiceSuite)** - The wrapper for the entire Rice ecosystem, comprising Poster, Clipper, and Searcher into a single site with unified media and session management. Preview your media collection, manage batches at each step of the editing process, and turn hours of unedited footage into social media-ready clips with just three mouse clicks.
+-   **[RiceSuite](https://github.com/gidde032/RiceSuite)** - The wrapper for the entire Rice ecosystem, comprising Poster, Clipper, and Searcher into a single site with unified media and session management. Preview your media collection, manage batches at each step of the editing process, and turn hours of unedited footage into social media-ready clips in just a few minutes.
     -   **[RicePoster](https://github.com/gidde032/RicePoster)** - The spout of the Rice pipeline; an automated Instagram and TikTok posting tool with a Python backend powered by FastAPI and Playwright. Post to up to 12 accounts at once, generate input-free captions with the Anthropic API using automated post snapshots, schedule batches of posts for future dates, review your post history, and clear your stale media directory with one click.
     -   **[RiceClipper](https://github.com/gidde032/RiceClipper)** - The second step in the Rice suite; a local-first short-form video rendering tool built with Python, FastAPI, vanilla HTML/JS, faster-whisper, OpenCV YuNet, Pillow, and ffmpeg with libass. Upload clips to generate word-synced, timestamped captions and headers, automatically reframe landscape footage around subjects, mix music, and export post-ready 1080×1920 H.264 videos straight to RicePoster, with an optional Anthropic-powered header generator.
     -   **[RiceSearcher](https://github.com/gidde032/RiceSearcher)** - The entry point to the Rice suite; a local-first Python content-discovery tool built with yt-dlp, faster-whisper, Anthropic’s Claude API, SQLite, and FastAPI. Pull and transcribe videos, score and deduplicate promising moments using local embeddings via sentence-transformers, review selections in a lightweight web UI, and hand the approved clips off to RiceClipper for rendering.
 -   **[ITGKB](https://github.com/gidde032/itgkb)** - A space-themed TypeScript visualizer for a Markdown IT Knowledge Base. Contains templates and instructions for automated and manual content ingestion for new article creation. Articles can be searched by text and are clustered by category and topic; semantic search and grouping are planned for future versions.
 
-<img src="https://img.shields.io/badge/Bits_and_Bobs-1B4332?style=for-the-badge&logo=itchdotio&logoColor=white" style="height: 35px;" />
+<img src="https://img.shields.io/badge/Other-1B4332?style=for-the-badge&logo=itchdotio&logoColor=white" style="height: 35px;" />
 
--   **[Driftwood](https://github.com/gidde032/driftwood)** - A [single-file 8-bit fishing game](https://gidde032.github.io/driftwood/) inspired by Stardew Valley's angling minigame. Fill out your Fishopedia with over 60 unique species across 4 seasons and 7 locations, load up your tacklebox with dozens of lures, build your aquarium, unlock achievements, and find the Ferryman to guide you towards the source of the mysterious humming. Daily quests, lake records, rival anglers, and random competition events provide variety and local competition; universal 'Catch of the Day' tasks are shared across all copies of Driftwood, designed so that you can export your catch cards and gloat to your fishing buddies. If you can cement yourself as a Driftwood master angler, start a New Game+ to restart with just a twig and a bobber and do it all over again.
--   **[Adventures of Juggman](https://github.com/gidde032/roguelikeAdventure)** - A C-based roguelike dungeon crawler, procedurally generated so that no two runs are the same. Take control of Juggman as he collects potions, opens chests, and battles goblins, spiders, and trolls. Clear the fog as you peer around corners, using Bresenham's algorithm to determine the player's FOV, and look for the ladder to ascend to the next floor.
+-   **[Driftwood](https://github.com/gidde032/driftwood)** - A [single-file 8-bit fishing game](https://gidde032.github.io/driftwood/) inspired by Stardew Valley's angling minigame.
+-   **[Adventures of Juggman](https://github.com/gidde032/roguelikeAdventure)** - A C-based roguelike dungeon crawler, procedurally generated.  Man Juggman as he collects potions, opens chests, and battles goblins, spiders, and trolls.
+-   **[Flytie](https://pypi.org/project/flytie/)** - A Python-powered tool designed to help fly fishermen manage their fly patterns and tying materials. Read about my workflow and development process in my [Medium article series on Agentic Development](https://medium.com/@finn.gidden/building-flytie-setting-up-the-proper-structure-for-agentic-development-7ac1f58ea8ff).
 
 ---
 
@@ -31,7 +31,7 @@ I am a Computer Science student at the University of Minnesota focused on engine
 <img src="https://custom-icon-badges.demolab.com/badge/Languages-B45309?style=for-the-badge&logo=file-code&logoColor=white" style="height: 35px;" />
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)](#)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-3178C6?style=for-the-badge&logo=javascript&logoColor=fff)](#)
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](#)
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](#)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](#)
@@ -43,7 +43,6 @@ I am a Computer Science student at the University of Minnesota focused on engine
 [![Playwright](https://custom-icon-badges.demolab.com/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=fff)](#)
 [![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](#)
 [![Pytest](https://img.shields.io/badge/Pytest-fff?style=for-the-badge&logo=pytest&logoColor=000)](#)
-[![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](#)
 
 ---
 
